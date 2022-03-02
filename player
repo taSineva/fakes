@@ -1,0 +1,35 @@
+{
+  "app_info": {
+    "projectId": "748786f4-8270-48ca-9f3e-e8f12e08e7a0",
+    "applicationId": "eb5d7c3c-354b-412a-9bdf-7be5023493cb",
+    "appversionId": "2ce0766a-3bb0-4269-8f97-11f9a0e6054a",
+    "systemName": "catalog",
+    "frontendEndpoint": "https://catalog.prom.app.sberdevices.ru/",
+    "frontendType": "WEB_APP",
+    "frontendStateId": "748786f4-8270-48ca-9f3e-e8f12e08e7a0"
+  },
+  "items": [
+    {
+      "command": {
+        "type": "player_command",
+        "player_command": {
+          "command": "PLAYER_CONTINUE",
+          "app_info": {
+            "projectId": "748786f4-8270-48ca-9f3e-e8f12e08e7a0",
+            "applicationId": "eb5d7c3c-354b-412a-9bdf-7be5023493cb",
+            "appversionId": "2ce0766a-3bb0-4269-8f97-11f9a0e6054a",
+            "systemName": "catalog",
+            "frontendEndpoint": "https://catalog.prom.app.sberdevices.ru/",
+            "frontendType": "WEB_APP",
+            "frontendStateId": "748786f4-8270-48ca-9f3e-e8f12e08e7a0"
+          }
+        }
+      }
+    },
+    {
+      "bubble": {
+        "text": "Привет, мир!"
+      }
+    }
+  ]
+}
